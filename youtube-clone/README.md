@@ -9,6 +9,7 @@ Browsing, YouTube pages:
 <li>Home page<li/>
 <li>Search page<li/>
 <li>Watch page<li/>
+<ul/>
 
 Displaying the home page.
 Searching for a kind o videos.
