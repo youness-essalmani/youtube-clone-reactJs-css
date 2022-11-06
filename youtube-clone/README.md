@@ -3,7 +3,6 @@ On Progress...
 
 Frontend Developer Challenge: YouTube Clone with ReactJs and css
 
-<h1>Cloning Features:<h1/>
 Browsing, YouTube pages:
 <ul>
 <li>Home page<li/>
