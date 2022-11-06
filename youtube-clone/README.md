@@ -4,11 +4,10 @@ On Progress...
 Frontend Developer Challenge: YouTube Clone with ReactJs and css
 
 Browsing, YouTube pages:
-<ul>
-<li>Home page<li/>
-<li>Search page<li/>
-<li>Watch page<li/>
-<ul/>
+
+Home page
+Search page
+Watch page
 
 Displaying the home page.
 Searching for a kind o videos.
