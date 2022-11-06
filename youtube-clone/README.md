@@ -1,11 +1,10 @@
 Informations
 On Progress...
-Frontend Developer Challenge: YouTube Clone SPA
 
 Frontend Developer Challenge: YouTube Clone with ReactJs and css
 
 <h1>Cloning Features:<h1/>
-<h1>Browsing, YouTube pages:<h1/>
+Browsing, YouTube pages:
 <ul>
 <li>Home page<li/>
 <li>Search page<li/>
@@ -14,7 +13,7 @@ Frontend Developer Challenge: YouTube Clone with ReactJs and css
 Displaying the home page.
 Searching for a kind o videos.
 Watch the video at WatchContent component.
-<h1>tTech / Stack:<h1/>
+Tech / Stack:
 React (web framework).
 State management with Redux.
 React Helmet.
