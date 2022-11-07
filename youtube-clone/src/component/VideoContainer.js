@@ -3,7 +3,7 @@ import {useSelector} from 'react-redux'
 import Video from './Video';
 
 function VideoContainer() {
-  const { videos } = useSelector((store)=> store.home);
+  const { videos } = useSelector((store)=> store.video);
   
   return (
     <div  className= "videos-container" >
