@@ -3,7 +3,7 @@ import {useSelector} from 'react-redux'
 import WatchVideo from './WatchVideo';
 
 function WatchContainer() {
-  const { videos } = useSelector((store)=> store.home);
+  const { videos } = useSelector((store)=> store.video);
 
   return (
     <div  className= "watch-videos-container" >
