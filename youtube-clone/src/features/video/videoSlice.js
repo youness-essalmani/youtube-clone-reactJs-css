@@ -3,8 +3,6 @@ import {YouTubeAPI, API_KEY} from '../../api/youtubeApi';
 
 const initialState = {
   videos: [],
-  videoId:'',
-  isLoading: true
 };
 
 export const getVideotItems = createAsyncThunk(
@@ -58,11 +56,9 @@ const videoSlice = createSlice({
   },
   extraReducers:{
     [getVideotItems.fulfilled]: (state, action) => {
-      state.isLoading = false;
       state.videos = action.payload.items;
     },
     [getSearchVideos.fulfilled]: (state, action) => {
-      state.isLoading = false;
       state.videos = action.payload.items;
     },
   }
@@ -70,5 +66,5 @@ const videoSlice = createSlice({
 
  
 export default videoSlice.reducer;
-export const {getChannelsId, clearVideos, getVideoId} = videoSlice.actions;
+export const {clearVideos} = videoSlice.actions;
 
