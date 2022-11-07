@@ -4,10 +4,10 @@ import { useParams } from 'react-router-dom';
 function WatchVideo() {
     const {id} = useParams();
   return (
-      <div class="watch">
+      <div className="watch">
         <iframe src={`https://www.youtube.com/embed/${id}`} title="YouTube video player"
-          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen="true">
+          frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen={true}>
         </iframe>
       </div>
   )
