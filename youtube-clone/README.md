@@ -1,9 +1,9 @@
-Informations
+##Informations
 On Progress...
 
-Frontend Developer Challenge: YouTube Clone with ReactJs and css
+##Frontend Developer Challenge: YouTube Clone with ReactJs and css
 
-Browsing, YouTube pages:
+#Browsing, YouTube pages:
 
 Home page
 
@@ -12,7 +12,7 @@ Search page
 Watch page
 
 
-Tech / Stack:
+#Tech / Stack:
 
 React (JavasScript library).
 
