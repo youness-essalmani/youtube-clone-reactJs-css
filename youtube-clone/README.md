@@ -21,5 +21,5 @@
 
 - CSS.
 
-Handling YouTuve v3 API requests with React axios and Redux thunk.
+- Handling YouTuve v3 API requests with React axios and Redux thunk.
   
