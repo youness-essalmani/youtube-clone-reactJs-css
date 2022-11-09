@@ -4,22 +4,22 @@
 
 ###### Browsing, YouTube pages:
 
-Home page
+- Home page
 
-Search page
+- Search page
 
-Watch page
+- Watch page
 
 
 ###### Tech / Stack:
 
-React (JavasScript library).
+- React (JavasScript library).
 
-State management with Redux.
+- State management with Redux.
 
-React Router.
+- React Router.
 
-CSS.
+- CSS.
 
 Handling YouTuve v3 API requests with React axios and Redux thunk.
   
